@@ -38,18 +38,6 @@
     "url": "https://github.com/isomorphic-git/isomorphic-git/issues"
   },
   "homepage": "https://isomorphic-git.org/",
-  "files": [
-    "cli.js",
-    "browser-tests.json",
-    "http/*",
-    "index.cjs",
-    "index.d.ts",
-    "index.js",
-    "index.umd.min.js",
-    "index.umd.min.d.ts",
-    "index.umd.min.js.map",
-    "size_report.html"
-  ],
   "dependencies": {
     "async-lock": "^1.1.0",
     "clean-git-ref": "^2.0.1",
